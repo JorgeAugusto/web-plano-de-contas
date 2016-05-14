@@ -1,7 +1,8 @@
 # web-plano-de-contas
+
 Módulo Contábil Plano de Contas
 
-#### Sobre: módulo contábil plano de contas
+#### Sobre: 
 
 A ideia aqui é mostrar um CRUD usando algumas tecnologias no Java EE principalmente o PrimeFaces.
 
