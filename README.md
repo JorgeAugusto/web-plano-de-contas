@@ -1,7 +1,5 @@
 # CRUD Plano de Contas Web
 
-CRUD
-
 #### Sobre: 
 
 A ideia aqui é mostrar um CRUD usando algumas tecnologias no Java EE principalmente o PrimeFaces.
