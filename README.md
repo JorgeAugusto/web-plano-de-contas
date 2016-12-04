@@ -20,3 +20,8 @@ Sistema desenvolvido utilizando uma plataforma baseada na tecnologia Java.
 - Bean Validation com Hibernate Validator
 - CDI com Weld 2.2.1.Final
 - MySQL 5 (usei esse banco, mas pode subir em outro por utilizar JPA)
+
+#### @author:
+Andrei Toledo
+
+Analista e Desenvolvedor de Sistemas
