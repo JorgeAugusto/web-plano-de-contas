@@ -23,5 +23,6 @@ Sistema desenvolvido utilizando uma plataforma baseada na tecnologia Java.
 
 #### @author:
 Andrei Toledo
+andreiltoledo@hotmail.com
 
-Analista e Desenvolvedor de Sistemas
+Analista e Desenvolvedor de Sistemas Java EE
